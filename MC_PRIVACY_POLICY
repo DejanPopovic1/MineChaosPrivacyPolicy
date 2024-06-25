@@ -1,0 +1,31 @@
+## Mine Chaos: Privacy policy
+
+Welcome to the Mine Chaos game app for Android!
+
+This is an Android game app developed by Eikendal Studios.
+
+As an avid Android user myself, I take privacy very seriously.
+
+I know how frustrating it is when apps collect your data without your knowledge.
+
+### Data collected by the app
+
+I hereby state, to the best of my knowledge and belief, that I have not programmed this app to collect any personally identifiable information. All data that the game saves on your local device is the high score, music volume and sound effects volume and can simply be erased by clearing the app's data or uninstalling the app. No analytics software is written in the app either.
+
+### Explanation of permissions requested in the app
+
+The list of permissions required by the app are as follows:
+
+| Permission | Why it is required |
+| :---: | --- |
+| `com.android.vending.BILLING` | Google Play's billing system is a service that enables you to sell digital products and content in your Android app. You can use Google Play's billing system to sell a one-time product or subscriptions on a recurring basis. This specific game requires this permission should the user wish to buy in app purchases. The in app purchases used by the game includes buying an ad-free version of the game as well as buying game power-ups which may enhance your scores |
+| `android.permission.INTERNET` | This allows the app to perform network operations. Without this permission, you will not be able to post your high scores/view peer high scores on the leaderboard, view adverts and make in app purchases. The app will only be able to run without the internet permission in the event that you purchase the "remove advertisements" in app purchase |
+| `android.permission.GET_ACCOUNTS` | Allows access to the list of accounts in the Accounts Service. The app uses this permission in an effort to find the device user's name when the support session is presented to a representative. |
+| `android.permission.USE_CREDENTIALS` | Allows the app to request authentication tokens. Without this permission, you would not be able to login with an identity against which to post high scores to the leaderboard aswell as complete in app purchases|
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protects your privacy, please send me an email, and I will submit a fix as a matter of priority.
+
+Yours sincerely,  
+Dean Popovic.  
+Cape Town, South Africa.  
+dean@parietalvision.com
